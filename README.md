@@ -26,4 +26,4 @@ NLP skill extractor · Salary prediction model · Engpassberufe visa checker · 
 
 ## 📫 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ishwari--thakur-blue?logo=linkedin)](https://linkedin.com/in/your-linkedin-here)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ishwari--thakur-blue?logo=linkedin)](https://www.linkedin.com/in/ishwari-thakur-4886a2193/)
