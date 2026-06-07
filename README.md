@@ -7,7 +7,7 @@ I build data pipelines, ML models, and AI-powered tools — with a focus on the 
 
 ## 🔨 Currently Building
 
-**[arbeitsmarkt-analyzer](https://github.com/ishwari-thakur/arbeitsmarkt-analyzer)** — [🚀 Live Demo](https://arbeitsmarkt-analyzer.streamlit.app)
+<a href="https://github.com/ishwari-thakur/arbeitsmarkt-analyzer"><strong>arbeitsmarkt-analyzer</strong></a> — <a href="https://arbeitsmarkt-analyzer.streamlit.app" target="_blank">🚀 Live Demo</a>
 End-to-end data science + AI tool for the German job market.  
 NLP skill extractor · Salary prediction model · Engpassberufe visa checker · CV match score  
 `Python` `spaCy` `XGBoost` `FastAPI` `Docker` `Streamlit`
